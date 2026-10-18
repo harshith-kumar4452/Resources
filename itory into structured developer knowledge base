@@ -1,0 +1,43 @@
+ .gitattributes                                     |  38 [32m++++[m
+ Cheatsheets/DSA/.gitkeep                           |   0
+ Cheatsheets/Git/.gitkeep                           |   0
+ Cheatsheets/README.md                              |  41 [32m++++[m
+ Cheatsheets/SQL/.gitkeep                           |   0
+ DSA/Arrays/.gitkeep                                |   0
+ DSA/Dynamic-Programming/.gitkeep                   |   0
+ DSA/Graphs/.gitkeep                                |   0
+ DSA/Linked-Lists/.gitkeep                          |   0
+ DSA/Problem-Solving-Patterns/.gitkeep              |   0
+ DSA/README.md                                      |  70 [32m+++++++[m
+ DSA/Recursion-Backtracking/.gitkeep                |   0
+ DSA/Sorting-Searching/.gitkeep                     |   0
+ DSA/Stacks-Queues/.gitkeep                         |   0
+ DSA/Strings/.gitkeep                               |   0
+ DSA/Trees/.gitkeep                                 |   0
+ Database-Schemas/MySQL/.gitkeep                    |   0
+ Database-Schemas/PostgreSQL/.gitkeep               |   0
+ Database-Schemas/README.md                         |  49 [32m+++++[m
+ Database-Schemas/Supabase/.gitkeep                 |   0
+ Programming/C/.gitkeep                             |   0
+ Programming/Cpp/.gitkeep                           |   0
+ Programming/Java/.gitkeep                          |   0
+ Programming/Python/.gitkeep                        |   0
+ Programming/README.md                              |  43 [32m+++++[m
+ README.md                                          | 212 [32m+++++++++++++++++++++[m
+ SQL/Concepts/.gitkeep                              |   0
+ .../Datasets/MySQL_Practice_Dataset.sql            |   0
+ .../SQL_Interview_Question_Bank_200.pdf            | Bin
+ SQL/Practice-Problems/.gitkeep                     |   0
+ SQL/README.md                                      |  86 [32m+++++++++[m
+ .../SQL_Solutions_L1_L4_Part1_With_Output.pdf      | Bin
+ .../SQL_Solutions_L5_L8_Part2_With_Output.pdf      | Bin
+ Templates/Git/.gitkeep                             |   0
+ Templates/Project-Starters/.gitkeep                |   0
+ Templates/README.md                                |  39 [32m++++[m
+ Templates/SQL/.gitkeep                             |   0
+ Web-Development/APIs/.gitkeep                      |   0
+ Web-Development/Authentication/.gitkeep            |   0
+ Web-Development/Backend/.gitkeep                   |   0
+ Web-Development/Frontend/.gitkeep                  |   0
+ Web-Development/README.md                          |  38 [32m++++[m
+ 42 files changed, 616 insertions(+)
